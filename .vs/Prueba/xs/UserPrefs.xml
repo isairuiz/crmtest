@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{297DC040-CED7-4EFC-9FED-7179920DD521}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prueba/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Prueba/Views/Home/Index.cshtml" Line="5" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prueba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
